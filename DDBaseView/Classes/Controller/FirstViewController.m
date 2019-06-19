@@ -16,6 +16,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.title = @"第一页面";
+    self.view.backgroundColor = [UIColor redColor];
     // Do any additional setup after loading the view.
 }
 
