@@ -1,0 +1,16 @@
+PODS:
+  - DDBaseView (0.1.0)
+
+DEPENDENCIES:
+  - DDBaseView (from `../`)
+
+EXTERNAL SOURCES:
+  DDBaseView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DDBaseView: ed71f844147d814678f735f9c5359cdfb43617d0
+
+PODFILE CHECKSUM: 12a1f0403b54711b7bfb9ae13dcbb8b416dc99ec
+
+COCOAPODS: 1.7.0

@@ -1,0 +1,22 @@
+{
+  "name": "DDBaseView",
+  "version": "0.1.0",
+  "summary": "A short description of DDBaseView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPFhh6NhxhYDBBiYH13WXUBXZzpE9OWWhYVQzdlm7DNd2q4=/DDBaseView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPFhh6NhxhYDBBiYH13WXUBXZzpE9OWWhYVQzdlm7DNd2q4=": "272197280@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPFhh6NhxhYDBBiYH13WXUBXZzpE9OWWhYVQzdlm7DNd2q4=/DDBaseView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDBaseView/Classes/**/*"
+}
