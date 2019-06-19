@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DDBaseView'
   s.version          = '0.0.1'
-  s.summary          = 'A short description of DDBaseView.'
+  s.summary          = 'base View'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
   #库介绍主页地址
-  s.homepage         = 'https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPFhh6NhxhYDBBiYH13WXUBXZzpE9OWWhYVQzdlm7DNd2q4=/DDBaseView'
+  s.homepage         = 'https://github.com/duluyang/DDBaseView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   #库开源许可
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   #作者信息
-  s.author           = { 'MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPFhh6NhxhYDBBiYH13WXUBXZzpE9OWWhYVQzdlm7DNd2q4=' => '272197280@qq.com' }
+  s.author           = { 'https://github.com/duluyang' => '272197280@qq.com' }
   #源码git地址
-  s.source           = { :git => 'https://github.com/MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECPFhh6NhxhYDBBiYH13WXUBXZzpE9OWWhYVQzdlm7DNd2q4=/DDBaseView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/duluyang/DDBaseView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
    #库依赖系统版本
